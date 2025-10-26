@@ -19,15 +19,15 @@ I hold a PhD in Mathematical Modelling & Optimization from University College Lo
 
 I've authored 5 peer-reviewed papers and presented at 3 international conferences. Highlights include:
 
-- *Power system planning integrating hydrogen and ammonia pathways under uncertainty*
+- *Power system planning integrating hydrogen and ammonia pathways under uncertainty*,
   *Comput. Aided Chem. Eng. 53, 2191-2196 (2024)* [DOI](https://doi.org/10.1016/B978-0-443-28824-1.50366-5)    
-- *The value of ammonia towards integrated power and heat system decarbonisation*
+- *The value of ammonia towards integrated power and heat system decarbonisation*,
   *Sustainable Energy & Fuels 8, 2914-2940 (2024)* [DOI](https://doi.org/10.1039/D4SE00449C)
-- *Stable optimisation-based scenario generation via game theoretic approach*
+- *Stable optimisation-based scenario generation via game theoretic approach*,
   *Comput. Chem. Eng. 185, 108646 (2024)* [DOI](https://doi.org/10.1016/j.compchemeng.2024.108646)
-- *Distribution planning of medical oxygen supply chains under uncertainty*
+- *Distribution planning of medical oxygen supply chains under uncertainty*,
   *Comput. Aided Chem. Eng. 52, 3387-3392 (2023)* [DOI](https://doi.org/10.1016/B978-0-443-15274-0.50540-0) 
-- *Data-Driven scenario generation for two-stage stochastic programming*
+- *Data-Driven scenario generation for two-stage stochastic programming*,
   *Chem. Eng. Res. Des. 187, 206-224 (2022)* [DOI](https://doi.org/10.1016/j.cherd.2022.08.014)
 
 ---
